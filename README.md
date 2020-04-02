@@ -1,4 +1,7 @@
 # CSC_4980_Token
+_Apr 1 2020_ ,
+_Savada Wilson_
+
 Within this repository lies a ERC20 Token Smart Contract and its Crowdsale Smart Contract. The purpose of these Smart Contracts is to display the ability and flexibility of the tools: Truffle, OpenZeppelin, and Solidity to create a ICO tfor whatever purpose one designs it for. I aspire to display my understanding of the Solidity language through this project and explain the methodology undertaken in its creation, step by step so one can reproduce the Smart Contracts. Foremost, to start the Crowdsale the necessary steps are as follows. Presumably one would have Ganache installed on their machine, in Linux, after installing Ganache and ensuring its dependencies are met, all one needs to do to initiate it, is type “ ganache-cli”. The purpose of Ganache is to create a testable blockchain with which one can deploy smart contracts, and make transfers with their ERC20 coin free of charge. After Gnaache is up and running, there are multiple ways one can then compile truffle. The method used in this project was through visual studio, after opening the folder of the project in Visual Studio, as truffle was already initialized in the folder, inside the Visual Studio folder one can type “truffle migrations –reset”. This is one way of deploying the contracts. 
 
 Questions
